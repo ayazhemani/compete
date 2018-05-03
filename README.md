@@ -1,6 +1,8 @@
 # compete
 Tutorial and code to create a mooshak programming competition server
 
+Install Mooshak on UBUNTU 16 (Azure)
+
 Run this block all together
 sudo su
 add-apt-repository ppa:webupd8team/sublime-text-3
